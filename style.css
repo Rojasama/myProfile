@@ -1,0 +1,140 @@
+* {
+  font-family: san-serif;
+  font-size: 20px;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: rgb(236, 236, 236);
+}
+
+heading {
+  text-align: center;
+  padding: 10px;
+  margin: 0 10px 0 10px;
+  display: block;
+  background-color: rgba(244, 244, 244);
+}
+
+/* .imgContainer {
+  background-color: rgb(236, 236, 236);
+} */
+.developerImg {
+  height: 250px;
+  width: 250px;
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.details h6 {
+  text-align: center;
+  margin: 10px;
+  font-weight: bold;
+}
+
+.details p {
+  margin: 0 100px 0 100px;
+  text-align: center;
+  font-size: 15px;
+}
+
+.skills {
+  display: block;
+  text-align: center;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+.skills h6 {
+  text-align: center;
+  margin: 10px;
+  font-weight: bold;
+}
+
+.skillImage p > img {
+  height: 100px;
+  width: 100px;
+  float: left;
+  margin: 10px;
+  padding: 10px;
+  display: block;
+}
+
+.experience {
+  display: block;
+  margin-top: 150px;
+}
+.experience h6 {
+  text-align: center;
+  margin: 10px;
+  font-weight: bold;
+}
+
+.company {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+.company h5 {
+  font-weight: bold;
+  text-align: center;
+}
+.company p {
+  font-size: 15px;
+}
+
+.hobbies {
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+.hobbies h6 {
+  text-align: center;
+  margin: 10px;
+  font-weight: bold;
+}
+.hobbies p > img {
+  height: 150px;
+  width: 150px;
+  padding: 10px;
+  margin: 10px;
+  float: left;
+}
+
+.hobbies p > img:first-child {
+  margin-left: 100px;
+}
+
+.hobbies p > img:last-child {
+  margin-right: 100px;
+}
+
+.maps {
+  margin-left: 250px;
+  margin-right: 200px;
+}
+
+.info {
+  margin: 10px;
+  padding: 20px;
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  background-color: #000;
+  height: 100px;
+  padding: 0 10px 0 10px;
+  margin: 0;
+}
+
+footer p {
+  color: #fff;
+}
+
+footer a > img {
+  height: 30px;
+  width: 30px;
+}
